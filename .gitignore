@@ -1,0 +1,18 @@
+# Exclude Obsidian system files and entire .obsidian directory
+.obsidian/
+
+# Exclude specific directories
+
+
+
+# Exclude system files (Ubuntu-specific)
+.Trash*/
+*~
+.DS_Store
+.swp
+.swo
+.lock
+.log
+.bak
+Thumbs.db
+
