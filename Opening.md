@@ -1,7 +1,9 @@
-> [!success] INTRO
 
-> You are surfing wondering in awe,
+# INTRO
 
-> Welcome to Inertia Collect,
+### > You are surfing wondering in awe,
 
-> Come and may what you love!
+
+### > Welcome to Inertia Collect,
+
+### > Come and may what you love!
