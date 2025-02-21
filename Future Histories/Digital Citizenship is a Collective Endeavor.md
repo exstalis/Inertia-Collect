@@ -1,5 +1,7 @@
 ### Tom Paine's revolutionary Idea of Public Participation
 
+<font color="#2DC26B">#### DIGITAL CITIZENSHIP IS A COLLECTIVE ENDEAVOR</font>
+
 The chapter begins with a quick summary of Tom Paine's life and early experience in American Revolution which led to publish his ideas in Common Sense. 
 Later course in his life, Paine proposes a universal social insurance system and suggests funding this system through a inheritance tax that primary focuses on land. 
 It's fascinating to see that idea of 'universal income' goes way back to 1797 where Tom Paine argues in his essay, Agrarian Justice, that a national fund should provide every adult with a 'ground rent'. 
@@ -76,6 +78,7 @@ Once more, we examine a different example, this time in a different demographic 
 Uhm... well, I'm not very social person I'd say...let's move on, shall we?
 
 So, the point is: tech giants are aware of the digital divide, which is the gap between those who have access to modern information and communication technology and those who do not. Therefore market share becomes crucial to capture in developing companies. Many of the initiatives represent a form of private sector involvement, that is an example of technological capitalism, as opposed to being considered as public infrastructure projects. over-subjective execution of capital allocation and management creates imbalance of power that could result in economic crisis in wealth distribution, especially with respect to investment opportunities that will have broader and long term returns. 
+
 
 
 > [!important] Comment
