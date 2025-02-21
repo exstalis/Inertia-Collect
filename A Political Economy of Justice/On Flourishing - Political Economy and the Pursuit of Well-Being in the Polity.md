@@ -1,5 +1,6 @@
 
 
+
 The chapter starts by exploring what is “known to us” from an individual standpoint, where the perspectives of philosophical liberals and modern conservatives converge on the subjective ***eudaimonia***.
 
 The author argues that the ***Nicomachean Ethics*** is what we can identify with and flourish in, which also includes the state of the individual and their relations. It is not an isolation of moral development but the development of individuals in areas they pursue. She continues: “We cannot look at the isolated individual but must instead observe the individual-in-context.”
@@ -193,3 +194,59 @@ That's true, I observed that capital gain is not just for the bigger, better pla
 But this is primarily true if you are in the group.  
 This type of *refinement* is for the capital economy. From educational systems and work to healthcare and many aspects of life—because it is a societal structuring, your role is to opt-in to the hardship.  
 However, in the LIS (Labor Intensive Systems), economic components such as resources, landscapes, social and financial structuring, and economic scales (macro-eco relation, micro-states) ARE and also require a little more complex approach than “work hard, party hard.” Because the LIS is *multifarious*. 
+
+For so long, we’ve been told that the economy is about one thing: efficiency—endless growth, maximum productivity, and austerity. But what if we’ve been asking the wrong questions all along? It reminds us, the dominant economic ideas of the past century haven’t emerged from thin air—they came from theories and policies that prioritized markets over people.
+
+But here’s the good news, and I love how the text puts it: “We can create conditions under which many more people can attain a flourishing life. We can create a well-being economy.” Isn’t that a powerful idea? A well-being economy. One where success isn’t measured by how much we produce or consume, but by how well we care for one another.
+
+But this change requires something deep: it requires us to “change our minds about what counts and what to count.” In other words, we have to redefine value. What if we measured the health of an economy not by the stock market, but by how many people have a roof over their heads and enough food to eat?
+
+The passage also offers a call to action: “Our politics must concern itself with remedying oppression and preventing new forms of domination.” This is critical because the economy isn’t just numbers and graphs—it’s about power, who has it, and who gets left behind.
+
+So, I’ll leave you with this thought: What would it mean to build an economy that truly starts from the bottom up—from the lived experiences of those who feel its failures the most?
+
+-----------------------------------
+
+### OPPRESION, DOMINATION AND THE MISERY OF THE POLIS
+
+We often think of autocracy as a pre-existing condition. This applies not only to our social lives—where individuals exist in context—but also to political economy and how we understand it.
+
+As a response to past autocracy, Keynesian welfare state policies were introduced as a remedy, yet they didn’t fully address the underlying issues (e.g., international limitations). The post-war solutions did not extend to a socio-political welfare model capable of overcoming economic depression. Instead, political economy shifted toward neoliberal politics, inaugurating an arms race in global markets. This led to intensified segregation within the political economy, further entrenching social disparities.
+
+As Wendy Brown describes it:
+
+“In ordinary parlance, neoliberalism refers to the repudiation of Keynesian welfare state economics and the ascendance of the Chicago School of political economy—von Hayek, Friedman, and others. In popular usage, neoliberalism is equated with a radically free market: maximized competition and free trade achieved through economic deregulation, elimination of tariffs, and a range of monetary and social policies favorable to business and indifferent toward poverty, social deracination, cultural decimation, long-term resource depletion, and environmental destruction.”
+
+I find this description still relevant today. However, the term _liberal_ creates a conceptual limitation in understanding the broader impact of neoliberalism.
+
+On the other hand, Iris Young’s notion of the “distributive paradigm” critiques the narrow focus of neoliberal thought. She argues that justice should not be reduced solely to economic distribution but must also consider oppression, participation, and systemic change.
+
+Justice, being intangible and uncertain, mirrors human experience—shaped by context, negotiation, and action. Privileges based on race, gender, and class are central to understanding justice and political engagement. When economic restructuring promises solutions, it can also serve as a scapegoat mechanism, blaming individuals for systemic failures.
+
+The issue arises when individuals disengage from diverse perspectives within political and economic frameworks. Excuses and ignorance toward oppression create a harmful belief system where suffering is justified as either an individual’s fault or a necessary sacrifice to maintain social hierarchies.
+
+Ideas are powerful. They can change everything, yet they are difficult to change. Perhaps, instead of rigid adherence to ideology, we should encourage meditative reflection and second opinions.
+
+Amartya Sen articulates this well:
+
+	IN contrast with the utility-based or resource-based lines of thinking,           individual advantage is judged in the capability approach by a person's           ability to do things he or she has reason to value… The focus here is on the      freedom that a person actually has to do or be that which he or she may value.
+
+This resonates deeply. Success within a group depends not only on resources but also on the emotional and contextual relationship an individual has with their environment. For instance, in a math class, if students associate numbers with personal experiences—such as a sibling’s age—they may find learning more engaging and intuitive. Similarly, social and economic inclusion requires meaningful connections beyond stereotypes.
+
+If an individual from a financially disadvantaged background seeks to study, learn, or develop creative skills, they should be welcomed regardless of their appearance or status. True inclusion means fostering a sense of belonging and recognizing the value of diverse contributions.
+
+In an increasingly heterogeneous world, acknowledging these connections makes us stronger. The capacity to say, “I am the only one for me, but I am among many,” allows us to expand our sense of community beyond ourselves.
+
+### **Beyond Numbers: Rethinking Progress and Justice**  
+
+We often measure a country's progress with a single number—like **Gross National Product (GNP)**—as if economic growth alone tells us whether people are thriving. But what if this approach is missing the point?  
+
+Economist Amartya Sen argues that true well-being isn't about how much we have but about "what we can do"  with what we have. A person with wealth in a society without healthcare, education, or safety may be worse off than someone with fewer resources but greater opportunities. This idea challenges *the utilitarian tradition* which tries to fit everything valuable into one measurement of "utility," making us blind to deeper inequalities.  
+
+This connects to Iris Marion Young’s critique of traditional justice, which often focuses on fair distribution—who gets what—without asking a more important question: Do people have the capability to live well?  
+
+Sen and Young propose a shift from the **Distributive Paradigm**, which treats justice like a math problem, to the *Liberatory Paradigm*, which considers the real opportunities and freedoms people have to act, choose, and flourish. It’s not just about wealth—it's about whether people have the power to shape their lives.  
+
+So, where does that leave us? It leaves us with a deeper understanding of justice—one that doesn’t stop at individual well-being but expands our sense of community. Recognizing that *I am the only one for me, but I am among many* allows us to see our interconnectedness. It reminds us that justice isn't just about lifting individuals; it’s about creating conditions where **we all** can thrive, together.  
+
+Do we only rely on measuring success by economic umbers measure success?
