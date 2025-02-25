@@ -1,3 +1,3 @@
 ---
-color: var(--mk-color-red)
+color: "#c1ff72"
 ---
