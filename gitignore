@@ -1,0 +1,78 @@
+# Exclude Obsidian system files and entire .obsidian directory
+.obsidian/
+
+
+
+
+
+# Exclude system files (Ubuntu-specific)
+.Trash*/
+*~
+.DS_Store
+.swp
+.swo
+.lock
+.log
+.bak
+Thumbs.db
+
+# Obsidian Core
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*
+!.obsidian/plugins/README.md
+
+# Plugin-specific files
+.trash/
+.DS_Store
+data.json
+*.space
+.space*
+
+# Plugin data directories
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+
+# Hot reload data
+.hot-reload.json
+
+# Mobile sync configuration
+.obsidian/mobile.json
+
+# Sync plugin configuration
+.obsidian/sync.json
+
+# Plugin marketplace configuration
+.obsidian/plugins/obsidian-style-settings
+.obsidian/plugins/obsidian-git
+.obsidian/plugins/recent-files-obsidian
+
+# Temporary files
+*.temp
+*.tmp
+
+# Backup files
+*.bak
+
+# Local configuration
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/hotkeys.json
+.obsidian/app.json
+
+# Exclude graph settings and canvas
+.obsidian/graph.json
+.obsidian/canvas.json
+
+# Community plugins data
+.obsidian/community-plugins.json
+
+# Themes (optional - uncomment if you want to ignore themes)
+#.obsidian/themes/
+
+# Snippets (optional - uncomment if you want to ignore custom CSS)
+#.obsidian/snippets/
+
