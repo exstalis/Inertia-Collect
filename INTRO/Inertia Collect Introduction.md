@@ -2,7 +2,7 @@
 > 	You are surfing wondering in awe,    
 > 	Welcome to Inertia Collect,
 > 	Come and may what you love!!
->   ![[INERTIA COLLECT/Visuals/Inertia Collect Light Logo.png]]
+>   ![[INERTIA COLLECT/Collect-Main/Collect-One/Future Histories/Visuals/Inertia Collect Light Logo.png]]
 
 ---
 
