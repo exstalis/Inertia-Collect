@@ -2,17 +2,9 @@
 > 	You are surfing wondering in awe,    
 > 	Welcome to Inertia Collect,
 > 	Come and may what you love!!
->   ![[Inertia Collect Light Logo.png]]
-
-
-
-
-
+>   ![[INERTIA COLLECT/Visuals/Inertia Collect Light Logo.png]]
 
 ---
-
-
-
 
 
 Hi there!  

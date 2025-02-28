@@ -1,6 +1,3 @@
----
-color: var(--mk-color-yellow)
----
 
 
 You are surfing wondering in awe,
@@ -9,4 +6,4 @@ Welcome to Inertia Collect,
 
 Come and may what you love!
 
-![[3.png]]
+![[INERTIA COLLECT/Visuals/3.png]]
