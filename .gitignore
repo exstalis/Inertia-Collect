@@ -27,6 +27,8 @@ Thumbs.db
 .trash/
 .DS_Store
 data.json
+*.space
+.space*
 
 # Plugin data directories
 .obsidian/plugins/*/data.json
