@@ -1,23 +1,33 @@
-What do we  mean by game ? 
+Alright, what do we mean by 'game' ? 
 Game is situated conditions in which entities like players are affected by their individual decisions.
 This situated conditions a.k.a game-like situations includes basic elements: rules, players, strategies.
 
 Then what would be the rules?
-Well, in real world use cases - laws, customs, taboos, and various social conditions correspond to what we can call  as 'rules'. And rules are relative to the environment (which we can also discuss  in a general scope of game theory is also considered as a basic building block of the 'game'.).
-And environmental settings of the game are accounted for change in elements of the game.
+Well, in real world use cases - laws, customs, taboos, and various social conditions correspond to what we can call 'rules'. 
+Rules depend on the environment we're in. They change based on the environment, and we follow them accordingly. Rules vary across different social and environmental contexts in  the real world examples. Consider, you  are in a subway where  the yellow line means "do not cross" while waiting for a train, but in a marathon, it marks the finish line, which you're eager to cross.
+Therefore environmental settings of the game are accounted for change in elements of the game.
 
 
 ------------------------
 
 [!Question] 
-	`This explanation is a little tetbookish...Can you simplify?`
+	`This explanation is a little textbookish...Can you simplify?`
 
 
 ------------------------
 
 
-Let's consider, two different environmental settings:
-In a fancy restaurant, you might be wait for to be seated to dine in, and  that is the custom.  What could  be the situated condition for the customers is unlikely to be 'having  dinner on a couch  while watching  tv'.
+Sure. Let's consider, two different environmental settings:
+In a fancy restaurant, you might be waiting for to be seated to dine in; and that is the custom.  What could be the situated condition for the customers is unlikely to be 'having  dinner on a couch  while watching  tv' in a restaurant  setting unless that restaurant brings you a living room experience.  There could be a restaurant where there are couches and tvs instead of dining tables, but that is most unlikely the case in many restaurants. If the rules of the restaurant is: wait for  to be seated at a table assigned to you -  to the customer; or the if  the rule of  the environmental setting is: order at  the kiosk once you  arrive, grab your meal and go to living  room area, then this  environmental setting  of the game calls for change in the elements of the game. There is a change in strategy - a change in the restaurant business model. You arrive, you order  at the kiosk, grab your meal and find a couch for yourself.  
+
+------------------------
+
+[!Response] 
+	`Does this restaurant exist to give customers outdoor experience? What I am  getting at is that it sounds like a psychology of marketing where people don't want to mind whether they are  introverts or  extroverts.`
+
+
+------------------------
+
 
 
 
@@ -30,25 +40,29 @@ In a fancy restaurant, you might be wait for to be seated to dine in, and  that 
 ------------------------
 
 
-To your point, the author, Akira Nakano examines what we discussed so far asthe components of the game as
+
+
+
+Back to the topic, now!  To your point, the author, Akira Nakano examines what we discussed so far as the components of the game as
 > under these rules, The entity makes its own decisions and acts accordingly. The smallest unit that makes decisions and acts is called **player**.
-> Players skin be not only individuals, but also sets of people, countries and companies. 
+> Players can be not only individuals, but also sets of people (e.g.; voters, men, women), countries and companies. 
 
 
 
-The rules governing the in-game-play Helps players plan their future actions. 
+The rules governing the in-game-play help players plan their future actions. Player's actions are influenced  by actions made in the  game  environment.  
 
 
 ------------------------
 
 [!Response] 
-	`So , as like restaurant example.`
+	`But you are saying my actions as a  player are effected by rules in the environment  and  other players. Don't I have any autonomy?`
 
 
 ------------------------
 
+I probably should look  in to autonomy in game theory.  Though, personally, I think autonomy is bound to game or game-like situations where entities and players are also present.
 
-Indeed, it may influence these actions and actions of others, and when you think about these interplays — a plan of how to act in the future — while having the rules intact It’s called **strategy**. 
+Players can influence actions and actions of others, so  to say if you think about these interplays ongoing — a plan of how to act in the future while having the rules intact is called **strategy**. 
 
 The rules of the game also becomes really important as the game forms  a ‘game-like-situation’ where the choices of other players may or may not be shared with all players. In game theory, the former is called a complete information game and the letter is called incomplete information game. 
 
