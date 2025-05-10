@@ -60,9 +60,16 @@ The rules governing the in-game-play help players plan their future actions. Pla
 
 ------------------------
 
-I probably should look  in to autonomy in game theory.  Though, personally, I think autonomy is bound to game or game-like situations where entities and players are also present.
+I probably should look  in to autonomy in game theory. Though, personally, I think autonomy is bound to game or game-like situations where entities and players are also present.
 
-Players can influence actions and actions of others, so  to say if you think about these interplays ongoing — a plan of how to act in the future while having the rules intact is called **strategy**. 
+Players can influence actions and actions of others, so to say if you think about these interplays ongoing — a plan of how to act in the future while having the rules intact is called **strategy**. 
 
-The rules of the game also becomes really important as the game forms  a ‘game-like-situation’ where the choices of other players may or may not be shared with all players. In game theory, the former is called a complete information game and the letter is called incomplete information game. 
+The rules of the game also becomes really important as the game forms  a ‘game-like-situation’ where the choices of other players may or may not be shared with all players. In game theory, the former is called a **complete information game** and the letter is called **incomplete information** game. 
 
+But when to implement strategy? The timing  to  execute a player's strategy generally categorized as  simultaneous  or sequential.
+
+> A game in which multiple players execute strategies simultaneously is called  a **normal form game** (strategic form game). On the  other hand, a game in which players execute strategies in  turn  is called  an **extensively form  game**. 
+
+When  player  has to choose an action,  it is referred to as  a **move**.  After  a series of moves, the  game concludes, and the  result  is determined. Some players might lose or win.
+The outcome of the game  is usually  represented   numerically. This numerical value, known as payoff or utility, represents what a player gains from the game.
+The  payoff plays  an  important  role as players  strategize their game-play.  This demands players to  be  rational  in order  to  devise  their strategy.  In the  context of  game theory, rationality refers to the principle that players make decision logically  and  systematically to  achieve  the  best outcome  for  themselves, based on their preferences and available information.  Rationality is preferred to  maximizes  the  payoff , keeping  players free from emotional influences or  biases. 
