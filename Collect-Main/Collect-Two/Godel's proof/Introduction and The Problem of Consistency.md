@@ -82,7 +82,6 @@ And in the next chapter we will talk about the problem of Consistency!
 
 ### The Problem of Consistency
 
-
 Among Euclid's foundational axioms in geometry, the parallel postulate stands out as particularly significant. This axiom states that through any point not on a given line, exactly one parallel line can be drawn. Unlike Euclid's other axioms which were considered intuitively obvious, this parallel postulate wasn't readily accepted as self-evident by the Greek mathematicians. They believed it should be possible to prove this statement using the other axioms, which they considered more fundamental and self-evident. This led to numerous attempts to derive the parallel postulate from Euclid's other axioms, marking the beginning of a mathematical quest that would continue for centuries.
 
 <span style="background:#fdbfff">Can such a proof of the parallel axiom be given from the other axioms? </span>For various reasons, this question was to go unanswered for many centuries, until mathematicians struggled with this question without any apparent failure to construct a proof. That none can be found was finally discovered by means of constructing a model where mean parallel lines can be drawn to a given line through a given point.
